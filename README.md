@@ -180,13 +180,16 @@ The following visuals were added:
 
 ## Snapshot of Dashboard (Power BI Desktop)
 
-
+> Over View Page
 ![Overview page](images/Overview_report.png)
 
+> Top & Bottom 5 Analysis Page
 ![Top & Bottom 5 Analysis](images/Top_&_Bottom_5_Analysis.png)
 
+> Comparison of Sales/Profit/Quantity Sold Page
 ![Comparison of Sales/Profit/Quantity Sold](images/Comparison_of_Sales_Profit_Quantity_Sold.png)
 
+> Table View Page
 ![Table View](images/Table_View.png)
 
 ---
