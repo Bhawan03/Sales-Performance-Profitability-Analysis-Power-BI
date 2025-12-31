@@ -4,6 +4,6 @@ An interactive Power BI dashboard that analyzes sales performance, profit, and q
 ## 📸 Dashboard Screenshots
 
 ### Overview
-![Overview Dashboard](images/Overview report.png)
+![Overview Dashboard](images/Overview_report.png)
 
 
